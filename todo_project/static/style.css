@@ -1,0 +1,19 @@
+.banner{
+  background-color:LightPink;
+  width:100%;
+  height:100px;
+  bottom-padding:50px;
+  shadow:lg;
+}
+.banner-text{
+left:50%;
+top:40%;
+position:absolute;
+font-family:geneva;
+
+}
+
+.form-group{
+shadow:lg;
+
+}
